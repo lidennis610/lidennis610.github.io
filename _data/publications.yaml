@@ -1,3 +1,4 @@
+"""
 papers:
 
   - title: "Engaging Politically Diverse Audiences on Social Media"
@@ -139,3 +140,4 @@ papers:
     venue: "Proceedings of ICT Innovations Conference. 2010."
     paper_pdf: "/assets/publications/2010_machine_readable_dictionaries/paper.pdf"
     selected: n
+"""
