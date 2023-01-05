@@ -6,22 +6,22 @@ experiences:
   subtitle: "BS Computer Science"
   category: "school"
 
-- place: "Facebook"
-  time: "Summer 2019"
-  title: "Research Scientist, Intern"
-  subtitle: "Core Data Science"
-  category: "work"
-
-- place: "LinkedIn"
-  time: "Summer 2016"
-  title: "Research Scientist, Intern"
-  subtitle: "Experimentation Group"
-  category: "work"
-
 - place: "Amazon"
-  time: "Summer 2014"
-  title: "Machine Learning Scientist, Intern"
-  subtitle: "Scalable Machine Learning Group"
+  time: "Summer 2023"
+  title: "Software Development Engineer, Intern"
+  subtitle: "Software Engineering"
+  category: "work"
+
+- place: "General Atomics"
+  time: "Summer 2022"
+  title: "Software Engineer, Intern"
+  subtitle: "Automated Testing Team"
+  category: "work"
+
+- place: "Northrop Grumman"
+  time: "Summer 2020 - Summer 2021"
+  title: "Software Engineer, Intern"
+  subtitle: "Engineering Process Excellence Group"
   category: "work"
 
 - place: "Mt. Carmel High School"
