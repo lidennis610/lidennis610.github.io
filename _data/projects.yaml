@@ -2,14 +2,14 @@ projects:
   - title: "Bruin Workout Planner"
     subtitle: "Weekly Routine Workout Scheduler"
     thumbnail: "assets/projects/joebruin.png"
-    url: "https://github.com/cindy-cui/Bruin-Workout"
+    url: "https://github.com/lidennis610/Bruin-Workout"
     selected: y
 
-#   - title: "Human Atlas"
-#     subtitle: "Tool for Mapping Social Networks"
-#     thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
-#     url: "projects/2016_human-atlas.html"
-#     selected: y
+  - title: "Ghost Racer"
+    subtitle: "Cool and Fun Video Game"
+    thumbnail: "assets/projects/ghostracer.jpg"
+    url: "https://github.com/lidennis610/CS32-Proj3"
+    selected: y
 
 #   - title: "Responsive Communities"
 #     subtitle: "Pilot project in Jun, Spain"
