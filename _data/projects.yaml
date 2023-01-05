@@ -1,9 +1,9 @@
-# projects:
-#   - title: "Detecting Network Effects"
-#     subtitle: "Randomizing Over Randomized Experiments"
-#     thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
-#     url: "projects/2016_network-ab-testing.html"
-#     selected: y
+projects:
+  - title: "Bruin Workout Planner"
+    subtitle: "Weekly Routine Workout Scheduler"
+    thumbnail: "assets/projects/joebruin.png"
+    url: "https://github.com/cindy-cui/Bruin-Workout"
+    selected: y
 
 #   - title: "Human Atlas"
 #     subtitle: "Tool for Mapping Social Networks"
